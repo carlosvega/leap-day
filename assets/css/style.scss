@@ -24,3 +24,8 @@ header p {
 #banner {
   background: white
 }
+
+nav ul {
+  max-height: 400px;
+  overflow-y: scroll;
+}
