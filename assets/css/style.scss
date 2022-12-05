@@ -2,3 +2,21 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
+.tag-h3 {
+  display: none;
+}
+
+header {
+  background: none;
+  background-color: #fff1a8;
+}
+
+header h1 {
+  text-shadow: none;
+  color: black;
+}
+
+header p {
+  color: black;
+}
